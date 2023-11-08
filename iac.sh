@@ -40,3 +40,6 @@ chmod 770 /admin/
 chmod 770 /ven/
 chmod 770 /sec/
 chmod 777 /publica/
+
+
+echo "Finalizado com Sucesso"
